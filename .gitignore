@@ -25,6 +25,7 @@ hs_err_pid*
 *.bin
 *.yes
 # 我做实验用的目录
+data/
 /data/
 # 大模型
 data/model/*
